@@ -1,8 +1,8 @@
 {
   "scripts": {
-    "start": "webpack serve", // Запуск dev server
-    "build": "webpack", // Сборка проекта
-    "serve": "http-server dist" // Запуск HTTP-сервера
+    "start": "webpack serve", 
+    "build": "webpack", 
+    "serve": "http-server dist" 
   },
   "devDependencies": {
     "webpack": "^5.0.0",
